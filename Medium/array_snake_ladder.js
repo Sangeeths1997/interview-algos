@@ -1,4 +1,4 @@
-// create array for the snake and ladder in o(n)
+// create array for the snake and ladder game from 1 to 100 in o(n)
 
 function snakeLadderArr() {
     let arr = [];
@@ -14,6 +14,3 @@ function snakeLadderArr() {
 }
 
 console.log(snakeLadderArr());
-
-
-
